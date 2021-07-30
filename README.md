@@ -1,7 +1,7 @@
 ## 💬 Bem vindo, meu nome é Marcelo Machado atualmente estou estudando Java, SprintBoot e REACT <!-- buscando uma transição de carreira para a área de Desenvolvimento de software. -->
 
 <div>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarceloMachadoxD&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_rank=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarceloMachadoxD&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_rank=true&layout=compact"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloMachadoxD&layout=compact&langs_count=5&theme=dark"/>
 </div>
 
@@ -13,7 +13,7 @@
 </div>
 
 <div> 
- Caso queira entrar em contato comigo, me envie uma mensagem no Linkedin <a href="https://www.linkedin.com/in/marcelomachado1987/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ Caso queira entrar em contato comigo, me envie uma mensagem no Linkedin </br> <a href="https://www.linkedin.com/in/marcelomachado1987/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
 
