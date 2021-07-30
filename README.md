@@ -1,8 +1,8 @@
-## 💬 Bem vindo, meu nome é Marcelo Machado atualmente estou estudando Java, SprintBoot e REACT <!-- buscando uma transição de carreira para a área de Desenvolvimento de software. -->
+## 💬 Bem vindo, meu nome é Marcelo Machado atualmente estou estudando Java, SprintBoot e REACT <!-- buscando uma transição de carreira para a área de Desenvolvimento de software. 0d1017 -->
 
 <div>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarceloMachadoxD&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_rank=true&layout=compact"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloMachadoxD&layout=compact&langs_count=5&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarceloMachadoxD&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_rank=true&layout=compact&bg_color=DEG,0d1017,111620,0d1017"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloMachadoxD&layout=compact&langs_count=5&theme=dark&bg_color=DEG,0d1017,111620,0d1017"/>
 </div>
 
 <div style="display: inline_block"><br>
