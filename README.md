@@ -1,4 +1,4 @@
-### 💬 Bem vindo, meu nome é Marcelo Machado atualmente estou estudando Java, SprintBoot e REACT buscando uma transição de carreira para a área de Desenvolvimento de software.
+### 💬 Bem vindo, meu nome é Marcelo Machado atualmente estou estudando Java, SprintBoot e REACT buscando me aprimorar para crescer na carreira de Desenvolvedor, área para o qual fiz minha transição de carreira no início de 2022
 
 <div>  
   <img height="180em" 
