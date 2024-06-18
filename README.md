@@ -16,7 +16,6 @@
 </div>
 
 <div> 
- Caso queira entrar em contato comigo, me envie uma mensagem no Linkedin </br>
  <a href="https://www.linkedin.com/in/marcelomachado1987/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
  </a> 
