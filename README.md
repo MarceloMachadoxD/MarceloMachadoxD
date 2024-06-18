@@ -1,4 +1,6 @@
-### 💬 Bem vindo, meu nome é Marcelo Machado atualmente estou estudando Java, SprintBoot e REACT buscando me aprimorar para crescer na carreira de Desenvolvedor, área para o qual fiz minha transição de carreira no início de 2022
+### EN Welcome, My name is Marcelo Machado, I´m Working with Java + Springboot and Javaascript + NodeJS, trying be better on careear as Software Engineer, that I made my career transition at the beginning of 2022
+### 🇧🇷 Bem vindo, meu nome é Marcelo Machado atualmente trabalho com Java e SprintBoot e javascript com NodeJS buscando me aprimorar para crescer na carreira de Desenvolvedor, área para o qual fiz minha transição de carreira no início de 2022
+
 
 <div>  
   <img height="180em" 
@@ -10,7 +12,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
@@ -20,18 +21,3 @@
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
  </a> 
 </div>
-
-<!--
-**MarceloMachadoxD/MarceloMachadoxD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
