@@ -1,5 +1,5 @@
-### EN Welcome, My name is Marcelo Machado, I´m Working with Java + Springboot and Javaascript + NodeJS, trying be better on careear as Software Engineer, that I made my career transition at the beginning of 2022
-### 🇧🇷 Bem vindo, meu nome é Marcelo Machado atualmente trabalho com Java e SprintBoot e javascript com NodeJS buscando me aprimorar para crescer na carreira de Desenvolvedor, área para o qual fiz minha transição de carreira no início de 2022
+### EN Welcome, My name is Marcelo Machado, I´m Working with Java/Kotlin + Springboot, trying be better on careear as Software Engineer
+### 🇧🇷 Bem vindo, meu nome é Marcelo Machado atualmente trabalho com Java/Kotlin e SprintBoot buscando me aprimorar para crescer na carreira de Desenvolvedor
 
 
 <div>  
